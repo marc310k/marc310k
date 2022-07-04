@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc310k&layout=compact)](https://github.com/marc310k/github-readme-stats)
 
-[![Snake animation](https://github.com/marc310k/marc310k/blob/output/github-contribution-grid-snake.svg)]
+![Snake animation](https://github.com/{{marc310k}}/{{marc310k}}/blob/output/github-contribution-grid-snake.svg)
 
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 <!--
