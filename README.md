@@ -5,7 +5,7 @@
 
 ![Snake animation](https://github.com/{{marc310k}}/{{marc310k}}/blob/output/github-contribution-grid-snake.svg)
 
-<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+
 <!--
 **marc310k/marc310k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
