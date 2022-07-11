@@ -3,8 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc310k&layout=compact)](https://github.com/marc310k/github-readme-stats)
 
-![Snake animation](https://github.com/{{marc310k}}/{{marc310k}}/blob/output/github-contribution-grid-snake.svg)
-
 
 <!--
 **marc310k/marc310k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
